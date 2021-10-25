@@ -4,8 +4,8 @@ body{
 } 
 
 h1{
-    background-color: rgb(45, 225, 0);
-    color: white
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 0, 0)
 }
 
 div{
@@ -14,11 +14,11 @@ div{
     left: 400px;
 
     background-color: yellow;
-    color: black;
+    color: rgb(38, 71, 255);
     width: 	400px;
     height: 200px;
-    padding: 20px;
-    border: turquoise 5px solid;
-    margin: 10px; 
-    opacity: 0.6;
+    padding: 0px;
+    border: rgb(255, 0, 0) 5px solid;
+    margin: 20px; 
+    opacity: 0.9;
 }
